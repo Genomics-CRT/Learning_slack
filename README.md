@@ -15,7 +15,7 @@ The first book to be tackled as a group is The Elements of Statistical Learning 
 
 ### Contents
 1. Introduction
-2. Overview of Supervised Learning **Week 1 and 2 Starting 11/01/2021**
+2. Overview of Supervised Learning **| Week 1 and 2: Starting 11/01/2021**
 3. Linear Methods for Regression 
 4. Linear Methods for Classification
 5. Basis Expansions and Regularization
