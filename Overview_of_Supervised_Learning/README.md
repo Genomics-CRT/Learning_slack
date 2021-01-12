@@ -28,3 +28,5 @@
 <li> 2.9 Model Selection and the Bias–Variance Tradeoff </li>
 <li> Bibliographic Notes </li>
 <li> Exercises </li>
+
+</ul>
